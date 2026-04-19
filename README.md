@@ -46,6 +46,16 @@ The primary objective of this dashboard is to:
 
 ---
 
+## Dashboard Preview
+
+### Meta Ad Performance Dashboard
+![Dashboard Preview](Meta_Ad_Performance_Dashboard.png)
+
+### Facebook Ad performance Dashboard
+![Dashboard Preview](Facebook_Ad_Performance_Dashboard.png)
+
+---
+
 ## 📈 Dashboard Features
 
 ### 🔹 KPI Overview
